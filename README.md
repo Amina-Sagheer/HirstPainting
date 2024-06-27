@@ -1,8 +1,9 @@
 # Hirst Dot Painting /Turtle Graphics Dot Grid
 
 ## Overview
-
-![HatrisPainting](https://github.com/Amina-Sagheer/HirstPainting/assets/172102325/2a9d321e-6a88-406e-a3f8-7e3beca7d10d)
+<p align= "center">
+<img src="https://github.com/Amina-Sagheer/HirstPainting/assets/172102325/2a9d321e-6a88-406e-a3f8-7e3beca7d10d" alt="HatrisPainting" width="500" height="400">
+</p>
 
 This Python project utilizes the `turtle` graphics module to generate a visually appealing grid of colored dots on a graphical canvas. The colors for these dots are dynamically sourced from an image file using the `colorgram` library, ensuring a diverse and harmonious color palette.
 
