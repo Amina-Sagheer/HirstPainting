@@ -3,7 +3,8 @@
 
 ## Overview
 
-This Python project utilizes the `turtle` graphics module to generate a visually appealing grid of colored dots on a graphical canvas. The colors for these dots are dynamically sourced from an image file using the `colorgram` library, ensuring a diverse and harmonious color palette.
+This Python project![HatrisPainting](https://github.com/Amina-Sagheer/HirstPainting/assets/172102325/2a9d321e-6a88-406e-a3f8-7e3beca7d10d)
+ utilizes the `turtle` graphics module to generate a visually appealing grid of colored dots on a graphical canvas. The colors for these dots are dynamically sourced from an image file using the `colorgram` library, ensuring a diverse and harmonious color palette.
 
 ## Features
 
